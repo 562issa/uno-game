@@ -58,3 +58,5 @@ function dealCard(deck){
     return deck.shift()
 }
 
+
+function newFUnction(){}
